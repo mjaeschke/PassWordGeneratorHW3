@@ -1,1 +1,2 @@
 # PassWordGeneratorHW3
+this code creates a password generator that allows the user the ability to adjust the password to their liking. they are allowed to adjust the lenght of the password between 8 and 128 characters.they are also allowed the ability to choose between upper and lower case.they can also chose to use numbers and special numbers i.e !@#$.they are also given these choices through prompts.
